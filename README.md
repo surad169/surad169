@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 #### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
