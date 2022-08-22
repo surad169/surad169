@@ -1,6 +1,6 @@
-### Hi there 👋
-# Darshan 
-### My Tech Stack
+### Hi 👋
+# It's Darshan 
+### My Tech Stack 
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
@@ -18,7 +18,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white??style=social&logo=MySQL&logoColor=%#4479A1)
 
 #### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
